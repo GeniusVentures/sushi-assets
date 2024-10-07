@@ -1,4 +1,5 @@
-# Sushi Assets Info
+# Genius WasletvAssets Info 
+## Forked from Sushi Assets
 
 ![Check](https://github.com/trustwallet/assets/workflows/Check/badge.svg)
 
